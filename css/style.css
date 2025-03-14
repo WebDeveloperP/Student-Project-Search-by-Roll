@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	margin: 0 auto;
+	width: 800px;
+	height: 150px;
+	text-align: center;
+	background: tomato;
+	color: #ffffff;
+	border: 3px solid black;
+	border-radius: 15px;
+	padding: 50px;
+	margin-top: 7px;
+}
+
+.header h1{
+	font-size: 65px;
+}
+.header h2{
+	font-size: 45px;
+}
+.header h3{
+	font-size: 30px;
+}
+
+
+.list-part{
+	margin: 0 auto;
+	margin-top: 7px;
+	background: black;
+	color: white;
+	width: 800px;
+	height: 150px;
+	text-align: center;
+	padding: 50px;
+}
+
+.list-table{
+	margin: 0 auto;
+	margin-top: 15px;
+	text-align: center;
+	color: white;
+	padding: 5px;
+}
+
+th,td{
+	padding: 10px 55px;
+	color: white;
+}
